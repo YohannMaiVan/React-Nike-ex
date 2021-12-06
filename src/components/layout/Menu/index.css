@@ -1,0 +1,29 @@
+.Menu {
+    width: 100vw;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(243, 243, 243);
+}
+
+.Menu ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.Menu ul li {
+    padding: 0 1vw 0;
+}
+
+.Jumpman {
+    display: flex;
+    align-items: center;
+    padding: 0 1vw 0;
+}
+
+.Options {
+    display: flex;
+    align-items: center;
+    padding: 0 2vw 0;
+}

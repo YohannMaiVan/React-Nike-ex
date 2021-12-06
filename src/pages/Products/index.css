@@ -1,0 +1,9 @@
+.Products {
+    display: flex;
+    justify-content: center;
+}
+
+.Products img {
+    width: 90vw;
+    height: 70vh;
+}
